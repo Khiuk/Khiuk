@@ -11,9 +11,8 @@ I'm passionate about managing and optimizing IT infrastructure, primarily focusi
 
 ## 💼 Skills
 - **Operating Systems**: Linux, Windows
-- **Scripting**: Bash
-- **System Monitoring**: Zabbix
-- **Automation**: Ansible (learning)
+- **Scripting**: Bash (learning)
+- **System Monitoring**: Zabbix (learning)
 
 ## 🔍 What I'm focusing on:
 - Network security and system hardening
