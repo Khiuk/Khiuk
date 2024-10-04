@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Roman Hiuk
 
-<!--
-**Khiuk/Khiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Administrator | Linux & Windows Enthusiast**
 
-Here are some ideas to get you started:
+I'm passionate about managing and optimizing IT infrastructure, primarily focusing on **Linux** and **Windows** environments. Always looking to improve system performance, automate workflows, and enhance security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently exploring **automation**.
+- 🔧 My tech stack: **Linux**, **Windows**, **Bash**.
+- 🚀 Open to collaborating on interesting **sysadmin projects**.
+- 📫 How to reach me: [Khiuk.2001@gmail.com](mailto:Khiuk.2001@gmail.com)
+
+## 💼 Skills
+- **Operating Systems**: Linux, Windows
+- **Scripting**: Bash
+- **System Monitoring**: Zabbix
+- **Automation**: Ansible (learning)
+
+## 🔍 What I'm focusing on:
+- Network security and system hardening
+- Advanced automation tools
