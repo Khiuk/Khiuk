@@ -14,7 +14,7 @@ Dedicated IT professional with 2+ years of experience in 1st Level Support and u
 * **Networking:** Practical knowledge of TCP/IP, DNS, DHCP, and configuration of LAN/WLAN.
 * **IT Security Focus:** Eager to bridge the gap in formal IT security knowledge, as identified in my partial equivalence recognition for Fachinformatiker FR Daten- und Prozessanalyse[cite: 68, 116].
 
-### 🚀 Projects & Learning Focus (See Pinned Repositories)
+### 🚀 Projects & Learning Focus
 
 I use my GitHub profile to document practical solutions and demonstrate my continuous learning curve:
 * **Active Directory Automation:** Practical scripting for routine administration.
